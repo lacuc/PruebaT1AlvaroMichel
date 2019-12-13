@@ -1,0 +1,47 @@
+
+ @font-face{
+ 	src: url(PoiretOne-Regular.ttf);
+ }
+ *{
+ 	-fx-font-family: 'Poiret One';
+ 	-fx-font-size:34px;
+		
+ }
+
+.img1{
+	-fx-background-image: url("sky.jpeg");
+	-fx-background-size: 100%;
+	-fx-background-repeat: no-repeat ;
+	
+}
+.jfx-button{
+	-fx-background-color: orange;
+	-fx-background-radius:6; 
+}
+
+#pane{
+	-fx-background-color: orange;
+}
+
+.jfx-button:hover{
+	-fx-background-color: blue; 
+}
+
+.pane1 {
+	-fx-background-size: 100%;
+	-fx-background-repeat: no-repeat;
+}
+.pane2 {
+	-fx-background-size: 100%;
+	-fx-background-repeat: no-repeat;
+}
+.pane3 {
+	-fx-background-size: 100%;
+	-fx-background-repeat: no-repeat;
+}
+.pane4 {
+	-fx-background-size: 100%;
+	-fx-background-repeat: no-repeat;
+}
+
+
